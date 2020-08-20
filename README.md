@@ -29,7 +29,8 @@
 - [S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 - [Modern C++ Template Starter](https://github.com/TheLartians/ModernCppStarter)
 - [Modern CMake Practices](https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/)
-- [Awesome C++ Libraries](https://github.com/fffaraz/awesome-cpp)
+- [Awesome Cpp Libraries](https://github.com/fffaraz/awesome-cpp)
+- [Awesome Hpp Libraries](https://github.com/p-ranav/awesome-hpp)
 - [Backend Roadmap](https://roadmap.sh/backend)
 
 ### Tools
