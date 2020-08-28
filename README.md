@@ -32,6 +32,7 @@
 - [Awesome Cpp Libraries](https://github.com/fffaraz/awesome-cpp)
 - [Awesome Hpp Libraries](https://github.com/p-ranav/awesome-hpp)
 - [Backend Roadmap](https://roadmap.sh/backend)
+- [40 maps that explain the internet](https://www.vox.com/a/internet-maps)
 
 ### Tools
 - [Travis](https://travis-ci.com), CI Tool
