@@ -19,6 +19,7 @@
 - [Design Patterns: Elements of Reusable Object-Oriented Software](https://www.amazon.com.br/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612/ref=pd_day0_14_8?_encoding=UTF8&pd_rd_i=0201633612&pd_rd_r=3c78913f-2d33-4f25-946b-9f02b03e273e&pd_rd_w=w0mzy&pd_rd_wg=3bL6K&pf_rd_p=c4c4ce2a-5c19-402b-95c2-78b460af9127&pf_rd_r=WYY9E2E4CC6DXHS6XTX1&psc=1&refRID=WYY9E2E4CC6DXHS6XTX1), Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides (Gang of Four - GoF)
 - [The Legacy Code Programmer's Toolbox](https://www.amazon.com.br/Legacy-Code-Programmers-Toolbox-Developers-ebook/dp/B07Y6T2VN1/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=legacy+code&qid=1597129805&sr=8-2), Jonathan Boccara
 - [14 Habits of Highly Productive Developers](https://www.amazon.com.br/Habits-Highly-Productive-Developers-English-ebook/dp/B08BF74RRG/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2651PS79GERI3&dchild=1&keywords=14+habitos+de+desenvolvedores+altamente+produtivos&qid=1597154480&sprefix=14+ha%2Caps%2C294&sr=8-2), Zeno Rocha
+- [The Pragmatic Programmer](https://www.amazon.com.br/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=The+Pragmatic+Programmer%3A+20th+Anniversary+Edition%2C+2nd+Edition&qid=1600100218&sr=8-1), David Thomas, Andrew Hunt
 
 
 # Cool stuff
