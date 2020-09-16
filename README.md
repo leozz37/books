@@ -37,7 +37,7 @@
 - [C++ Rule of Zero](http://web.archive.org/web/20171203020717/https://blog.rmf.io/cxx11/rule-of-zero)
 
 ### Tools
-- [Compiler Explorer](https://godbolt.org/)
+- [Godbolt Online Explorer](https://godbolt.org/), Online Compile Explorer
 - [Travis](https://travis-ci.com), CI Tool
 - [Appveyor](https://ci.appveyor.com), CI Tool
 - [Jenkins](https://www.jenkins.io/), CI Tool
