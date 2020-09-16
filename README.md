@@ -20,7 +20,7 @@
 - [The Legacy Code Programmer's Toolbox](https://www.amazon.com.br/Legacy-Code-Programmers-Toolbox-Developers-ebook/dp/B07Y6T2VN1/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=legacy+code&qid=1597129805&sr=8-2), Jonathan Boccara
 - [14 Habits of Highly Productive Developers](https://www.amazon.com.br/Habits-Highly-Productive-Developers-English-ebook/dp/B08BF74RRG/ref=sr_1_2?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2651PS79GERI3&dchild=1&keywords=14+habitos+de+desenvolvedores+altamente+produtivos&qid=1597154480&sprefix=14+ha%2Caps%2C294&sr=8-2), Zeno Rocha
 - [The Pragmatic Programmer](https://www.amazon.com.br/Pragmatic-Programmer-journey-mastery-Anniversary-ebook/dp/B07VRS84D1/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=The+Pragmatic+Programmer%3A+20th+Anniversary+Edition%2C+2nd+Edition&qid=1600100218&sr=8-1), David Thomas, Andrew Hunt
-
+- [Working Effectively with Legacy Code](https://www.amazon.com.br/Working-Effectively-Legacy-Michael-Feathers/dp/0131177052), Michael Feathers
 
 # Cool stuff
 
@@ -37,6 +37,7 @@
 - [C++ Rule of Zero](http://web.archive.org/web/20171203020717/https://blog.rmf.io/cxx11/rule-of-zero)
 
 ### Tools
+- [Compiler Explorer](https://godbolt.org/)
 - [Travis](https://travis-ci.com), CI Tool
 - [Appveyor](https://ci.appveyor.com), CI Tool
 - [Jenkins](https://www.jenkins.io/), CI Tool
