@@ -25,6 +25,7 @@
 # Cool stuff
 
 ### Links
+-
 - [The World Map of C++ STL Algorithms](https://www.fluentcpp.com/getthemap/)
 - [Design Patterns](https://refactoring.guru/design-patterns)
 - [S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
@@ -35,6 +36,7 @@
 - [Backend Roadmap](https://roadmap.sh/backend)
 - [40 maps that explain the internet](https://www.vox.com/a/internet-maps)
 - [C++ Rule of Zero](http://web.archive.org/web/20171203020717/https://blog.rmf.io/cxx11/rule-of-zero)
+- [Principles of Chaos Engineering](https://principlesofchaos.org/)
 
 ### Tools
 - [Godbolt Online Explorer](https://godbolt.org/), Online Compile Explorer
