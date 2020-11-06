@@ -25,7 +25,6 @@
 # Cool stuff
 
 ### Links
--
 - [The World Map of C++ STL Algorithms](https://www.fluentcpp.com/getthemap/)
 - [Design Patterns](https://refactoring.guru/design-patterns)
 - [S.O.L.I.D Principles in Pictures](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
