@@ -36,6 +36,7 @@
 - [40 maps that explain the internet](https://www.vox.com/a/internet-maps)
 - [C++ Rule of Zero](http://web.archive.org/web/20171203020717/https://blog.rmf.io/cxx11/rule-of-zero)
 - [Principles of Chaos Engineering](https://principlesofchaos.org/)
+- [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 
 ### Tools
 - [Godbolt Online Explorer](https://godbolt.org/), Online Compile Explorer
