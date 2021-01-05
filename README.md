@@ -38,6 +38,10 @@
 - [Principles of Chaos Engineering](https://principlesofchaos.org/)
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 
+### Projects
+
+- [CRUD with Django + PostgreQL](https://bezkoder.com/django-postgresql-crud-rest-framework/)
+
 ### Tools
 - [Godbolt Online Explorer](https://godbolt.org/), Online Compile Explorer
 - [Travis](https://travis-ci.com), CI Tool
